@@ -6,13 +6,13 @@ A collection of **Image/ Video Demoireing** papers. (Updating)
 
 ## Contents
 
-- [Papers](#Demoireing-Papers)
-  - [Image Demoiring Papers](###Image-Demoireing-Papers)
-  - [Video Demoiring Papers](###Video-Demoireing-Papers)
-- [Challenges](##Demoireing-Challenges)
-- [Datasets](##Demoireing-Datasets)
-  - [Image Demoireing Datasets](###Image-Demoireing-Datasets)
-  - [Video Demoireing Datasets](###Video-Demoireing-Datasets)
+- [Papers](#demoireing-papers)
+  - [Image Demoiring Papers](#image-demoireing-papers)
+  - [Video Demoiring Papers](#video-demoireing-papers)
+- [Challenges](#demoireing-challenges)
+- [Datasets](#demoireing-datasets)
+  - [Image Demoireing Datasets](#image-demoireing-datasets)
+  - [Video Demoireing Datasets](#video-demoireing-datasets)
 
 
 
