@@ -22,7 +22,6 @@ A collection of **Image/ Video Demoireing** papers. (Updating)
 
 | Title                                                        | Paper                                                        | Code                                                         | Dataset                                                      | Key Words                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------- |
-
 | Coarse-to-fine Disentangling Demoiréing Framework for Recaptured Screen Images | [TPAMI-2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10040914) |                                                              |                                                              |                             |
 | Doing More With Moiré Pattern Detection in Digital Photos    | [TIP-2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10006755) | [MoireDet](https://github.com/cong-yang/MoireDet)            |                                                              |                             |
 | Progressive Moire Removal and Texture Complementation for Image Demoireing | [TCSVT-2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10019292) | /                                                            |                                                              |                             |
