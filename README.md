@@ -1,7 +1,7 @@
 # Paper List| Image Demoireing & Video Demoireing
 
-A collection of **Image/ Video Demoireing** papers. (Updating)
-
+This repository compiles a list of papers related to **Image/ Video Demoireing**.  (Updating)
+Continual improvements are being made to this repository. If you come across any relevant papers that should be included, please don't hesitate to open an issue.
 
 
 ## Contents
@@ -21,7 +21,10 @@ A collection of **Image/ Video Demoireing** papers. (Updating)
 ### Image Demoireing Papers
 
 | Title                                                        | Paper                                                        | Code                                                         | Dataset                                                      | Key Words                   |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------- |
+|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|-----------------------------|
+| Multibranch Wavelet-Based Network for Image Demoiréing       | [Sensors-2024](https://www.mdpi.com/1424-8220/24/9/2762)     |                                                              |                                                              |                             |
+| Image Demoiréing via Multi-scale Fusion Networks with Moiré Data Augmentation | [Sensors-2024](https://ieeexplore.ieee.org/abstract/document/10510240) |                                                              |                                                              |                             |
+| Learning Image Demoiréing from Unpaired Real Data            | [AAAI-2024](https://arxiv.org/pdf/2401.02719)                | [UnDem](https://github.com/zysxmu/UnDeM)                     |                                                              |                             |
 | Image Demoiréing in RAW and sRGB Domains                     | [arxiv-2024](https://arxiv.org/pdf/2312.09063.pdf)           |                                                              | [TMM22](https://github.com/tju-chengyijia/RDNet)             |                             |
 | Coarse-to-fine Disentangling Demoiréing Framework for Recaptured Screen Images | [TPAMI-2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10040914) |                                                              |                                                              |                             |
 | Doing More With Moiré Pattern Detection in Digital Photos    | [TIP-2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10006755) | [MoireDet](https://github.com/cong-yang/MoireDet)            |                                                              |                             |
@@ -52,13 +55,14 @@ A collection of **Image/ Video Demoireing** papers. (Updating)
 ### Video Demoireing Papers
 
 | Title                                                        | Paper                                                        | Code                                                   | Dataset                                                     | Key Words            |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ | ----------------------------------------------------------- | -------------------- |
+|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------|----------------------|
+| STD-Net: Spatio-Temporal Decomposition Network for Video Demoiréing with Sparse Transformers | [TCSVT-2024](https://ieeexplore.ieee.org/abstract/document/10495363) |                                                        |                                                             |                      |
 | Video Demoir&#x00E9;ing with Deep Temporal Color Embedding and Video-Image Invertible Consistency | [TMM-2024](https://ieeexplore.ieee.org/abstract/document/10445438) |                                                        | [VDmoire](https://daipengwa.github.io/VDmoire_ProjectPage/) |                      |
 | Direction-aware Video Demoireing with Temporal-guided Bilateral Learning | [AAAI-2024](https://arxiv.org/abs/2308.13388)                | [DTNet](https://github.com/rebeccaeexu/DTNet)          | [VDmoire](https://daipengwa.github.io/VDmoire_ProjectPage/) |                      |
 | Recaptured Raw Screen Image and Video Demoiréing via Channel and Spatial Modulations | [NeurIPS-2023](https://arxiv.org/pdf/2310.20332.pdf)         | [VD_raw](https://github.com/tju-chengyijia/VD_raw)     | [RawVDemoiré](https://github.com/tju-chengyijia/VD_raw)     | Raw Video Demoiréing |
 | Deep Video Demoireing via Compact Invertible Dyadic Decomposition | [ICCV-2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Quan_Deep_Video_Demoireing_via_Compact_Invertible_Dyadic_Decomposition_ICCV_2023_paper.pdf) | [CIDNet](https://github.com/RuotaoXu/CIDNet)           |                                                             |                      |
 | FPANet: Frequency-based Video Demoireing using Frame-level Post Alignment | [arxiv-2023](https://arxiv.org/abs/2301.07330)               | /                                                      | [VDmoire](https://daipengwa.github.io/VDmoire_ProjectPage/) |                      |
-| Demoiréing with Relation-Based Temporal Consistency          | [CVPR-2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Dai_Video_Demoireing_With_Relation-Based_Temporal_Consistency_CVPR_2022_paper.pdf) | [VDmoire](https://github.com/CVMI-Lab/VideoDemoireing) | [VDmoire](https://daipengwa.github.io/VDmoire_ProjectPage/) | Video Demoiréing     |
+| Video Demoiréing with Relation-Based Temporal Consistency    | [CVPR-2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Dai_Video_Demoireing_With_Relation-Based_Temporal_Consistency_CVPR_2022_paper.pdf) | [VDmoire](https://github.com/CVMI-Lab/VideoDemoireing) | [VDmoire](https://daipengwa.github.io/VDmoire_ProjectPage/) | Video Demoiréing     |
 
 
 
