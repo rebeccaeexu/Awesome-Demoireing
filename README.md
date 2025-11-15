@@ -20,7 +20,7 @@ Continual improvements are being made to this repository. If you come across any
 
 | Title | Paper | Code | Dataset | Key Words |
 | --- | --- | --- | --- | --- |
-| Video Demoireing using Focused-Defocused Dual-Camera System | [arxiv-2025](https://www.arxiv.org/abs/2508.03449) |  |  | Focused-Defocused |
+| Video Demoireing using Focused-Defocused Dual-Camera System | [TPAMI-2025](https://www.arxiv.org/abs/2508.03449) | [dual_lens-demoireing](https://github.com/circle11111/dual_lens_demoireing) |     | Focused-Defocused |
 | Image DeMoiréing Using Dual Camera Fusion on Mobile Phones | [ICME-2025](https://arxiv.org/pdf/2506.08361) | [DCID](https://github.com/Mrduckk/DCID) | [DCID](https://github.com/Mrduckk/DCID) | Dual Camera |
 | Freqformer: Image-Demoir\'eing Transformer via Efficient Frequency Decomposition | [arxiv-2025](https://arxiv.org/pdf/2505.19120) | [Freqformer](https://github.com/xyLiu339/Freqformer) |     |     |
 | DSDNet: Raw Domain Demoiréing via Dual Color-Space Synergy | [ICML-2025](https://arxiv.org/abs/2504.15756) |     |     |     |
